@@ -10,7 +10,7 @@ Full Deobfuscator for PEUnion 4.0.0 (.NET &amp; PE32)
 # Info
 Protection Name | Supported | Details
 ------------- | ------------- | -------------
-PE32 Extraction | Yes | Compression not yet, Padding supported
+PE32 Extraction | Yes (Padding included) | Compression support soon
 PE32 Deobfuscation | No |
 .NET Extraction | Yes | Fully works
 .NET Deobfuscation | Yes | You likely won't need it
